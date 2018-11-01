@@ -1,6 +1,6 @@
 janko 
 petko 
-stanko 
+ 
 marko 
 zarko
 
